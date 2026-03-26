@@ -19,7 +19,7 @@ https://github.com/user-attachments/assets/74dae6f4-3b56-466a-886c-fb24b8e42125
 
 
 
-## Instructions
+## Notes
 - can choose any but I chose GPIO pin 5 and 19 to connect to the 2 cathodes of my led.
 - The anode got the 3.3 -> 220 Ohm Register -> anode
 - The unit is powered my micro USB.
