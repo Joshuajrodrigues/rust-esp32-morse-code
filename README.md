@@ -1,3 +1,8 @@
+# A small easy hello world project for Rust + ESP32
+
+
+https://github.com/user-attachments/assets/74dae6f4-3b56-466a-886c-fb24b8e42125
+
 ## Parts Required
 
 - 1x ESP WROOM 32
@@ -10,6 +15,9 @@
 
 ## Circuit
 <img width="580" height="660" alt="circuit" src="https://github.com/user-attachments/assets/9074a57c-be3a-4924-b7b1-817b144fe7ff" />
+
+
+
 
 ## Instructions
 - can choose any but I chose GPIO pin 5 and 19 to connect to the 2 cathodes of my led.
