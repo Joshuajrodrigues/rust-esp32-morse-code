@@ -24,7 +24,14 @@ https://github.com/user-attachments/assets/74dae6f4-3b56-466a-886c-fb24b8e42125
 - The anode got the 3.3 -> 220 Ohm Register -> anode
 - The unit is powered my micro USB.
 - I used only 2 of the colors from the led, red for "-" and green for "."
-- Special chars were not handled. 
+- Special chars were not handled.
+
+## Instrctions
+
+- Clone the project
+- run cargo build
+- plug in your esp
+- run cargo run
 
 ## Refrences
 - https://esp32.implrust.com/
